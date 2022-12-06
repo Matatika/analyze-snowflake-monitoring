@@ -12,8 +12,8 @@ Add plugin to `discovery.yml`:
 files:
 - name: analyze-snowflake-monitoring
   namespace: snowflake_monitoring
-  repo: https://github.com/Matatika/analyze-example.git
-  pip_url: git+https://github.com/Matatika/analyze-example.git
+  repo: https://github.com/Matatika/analyze-snowflake-monitoring
+  pip_url: git+https://github.com/Matatika/analyze-snowflake-monitoring
 ```
 
 Add plugin to your Meltano project:
@@ -32,5 +32,5 @@ files:
     namespace: snowflake_monitoring
     update:
       '*.yml': true
-    pip_url: git+https://github.com/Matatika/analyze-example.git
+    pip_url: git+https://github.com/Matatika/analyze-snowflake-monitoring
 ```

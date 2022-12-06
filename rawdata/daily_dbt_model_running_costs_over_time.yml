@@ -1,0 +1,159 @@
+daily_dbt_model_running_costs_over_time: |-
+  [
+    {
+        "snowflake_spend.date": "01/01/22",
+        "snowflake_spend.spend": "117.26"
+    },
+    {
+        "snowflake_spend.date": "02/01/22",
+        "snowflake_spend.spend": "129.02"
+    },
+    {
+        "snowflake_spend.date": "03/01/22",
+        "snowflake_spend.spend": "109.91"
+    },
+    {
+        "snowflake_spend.date": "04/01/22",
+        "snowflake_spend.spend": "106.50"
+    },
+    {
+        "snowflake_spend.date": "05/01/22",
+        "snowflake_spend.spend": "124.50"
+    },
+    {
+        "snowflake_spend.date": "06/01/22",
+        "snowflake_spend.spend": "118.92"
+    },
+    {
+        "snowflake_spend.date": "07/01/22",
+        "snowflake_spend.spend": "251.44"
+    },
+    {
+        "snowflake_spend.date": "08/01/22",
+        "snowflake_spend.spend": "112.26"
+    },
+    {
+        "snowflake_spend.date": "09/01/22",
+        "snowflake_spend.spend": "118.16"
+    },
+    {
+        "snowflake_spend.date": "10/01/22",
+        "snowflake_spend.spend": "109.86"
+    },
+    {
+        "snowflake_spend.date": "11/01/22",
+        "snowflake_spend.spend": "106.22"
+    },
+    {
+        "snowflake_spend.date": "12/01/22",
+        "snowflake_spend.spend": "119.10"
+    },
+    {
+        "snowflake_spend.date": "13/01/22",
+        "snowflake_spend.spend": "116.40"
+    },
+    {
+        "snowflake_spend.date": "14/01/22",
+        "snowflake_spend.spend": "106.50"
+    },
+    {
+        "snowflake_spend.date": "15/01/22",
+        "snowflake_spend.spend": "91.07"
+    },
+    {
+        "snowflake_spend.date": "16/01/22",
+        "snowflake_spend.spend": "99.59"
+    },
+    {
+        "snowflake_spend.date": "17/01/22",
+        "snowflake_spend.spend": "102.41"
+    },
+    {
+        "snowflake_spend.date": "18/01/22",
+        "snowflake_spend.spend": "103.88"
+    },
+    {
+        "snowflake_spend.date": "19/01/22",
+        "snowflake_spend.spend": "101.56"
+    },
+    {
+        "snowflake_spend.date": "20/01/22",
+        "snowflake_spend.spend": "86.22"
+    },
+    {
+        "snowflake_spend.date": "21/01/22",
+        "snowflake_spend.spend": "101.19"
+    },
+    {
+        "snowflake_spend.date": "22/01/22",
+        "snowflake_spend.spend": "101.10"
+    },
+    {
+        "snowflake_spend.date": "23/01/22",
+        "snowflake_spend.spend": "101.94"
+    },
+    {
+        "snowflake_spend.date": "24/01/22",
+        "snowflake_spend.spend": "96.73"
+    },
+    {
+        "snowflake_spend.date": "25/01/22",
+        "snowflake_spend.spend": "101.20"
+    },
+    {
+        "snowflake_spend.date": "26/01/22",
+        "snowflake_spend.spend": "99.21"
+    },
+    {
+        "snowflake_spend.date": "27/01/22",
+        "snowflake_spend.spend": "105.96"
+    },
+    {
+        "snowflake_spend.date": "28/01/22",
+        "snowflake_spend.spend": "111.33"
+    },
+    {
+        "snowflake_spend.date": "29/01/22",
+        "snowflake_spend.spend": "107.34"
+    },
+    {
+        "snowflake_spend.date": "30/01/22",
+        "snowflake_spend.spend": "104.04"
+    },
+    {
+        "snowflake_spend.date": "31/01/22",
+        "snowflake_spend.spend": "115.09"
+    },
+    {
+        "snowflake_spend.date": "01/02/22",
+        "snowflake_spend.spend": "109.18"
+    },
+    {
+        "snowflake_spend.date": "02/02/22",
+        "snowflake_spend.spend": "111.74"
+    },
+    {
+        "snowflake_spend.date": "03/02/22",
+        "snowflake_spend.spend": "106.06"
+    },
+    {
+        "snowflake_spend.date": "04/02/22",
+        "snowflake_spend.spend": "118.24"
+    },
+    {
+        "snowflake_spend.date": "05/02/22",
+        "snowflake_spend.spend": "204.68"
+    },
+    {
+        "snowflake_spend.date": "06/02/22",
+        "snowflake_spend.spend": "105.50"
+    },
+    {
+        "snowflake_spend.date": "07/02/22",
+        "snowflake_spend.spend": "100.72"
+    },
+    {
+        "snowflake_spend.date": "08/02/22",
+        "snowflake_spend.spend": "102.16"
+    }
+  ]

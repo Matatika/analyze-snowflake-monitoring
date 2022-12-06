@@ -1,0 +1,80 @@
+monthly_warehouse_costs: |-
+  [
+    {
+        "daily_spend.year": "2022",
+        "daily_spend.month": "01",
+        "daily_spend.warehouse": "COMPUTE_WH",
+        "daily_spend.Compute": "0.0",
+        "daily_spend.Storage": "0.0"
+    },
+    {
+        "daily_spend.year": "2022",
+        "daily_spend.month": "02",
+        "daily_spend.warehouse": "COMPUTE_WH",
+        "daily_spend.Compute": "0.0",
+        "daily_spend.Storage": "0.0"
+    },
+    {
+        "daily_spend.year": "2022",
+        "daily_spend.month": "03",
+        "daily_spend.warehouse": "COMPUTE_WH",
+        "daily_spend.Compute": "82.34",
+        "daily_spend.Storage": "0.0"
+    },
+    {
+        "daily_spend.year": "2022",
+        "daily_spend.month": "04",
+        "daily_spend.warehouse": "COMPUTE_WH",
+        "daily_spend.Compute": "37.05",
+        "daily_spend.Storage": "0.0"
+    },
+    {
+        "daily_spend.year": "2022",
+        "daily_spend.month": "05",
+        "daily_spend.warehouse": "COMPUTE_WH",
+        "daily_spend.Compute": "35.45",
+        "daily_spend.Storage": "0.0"
+    },
+    {
+        "daily_spend.year": "2022",
+        "daily_spend.month": "06",
+        "daily_spend.warehouse": "COMPUTE_WH",
+        "daily_spend.Compute": "23.29",
+        "daily_spend.Storage": "0.0"
+    },
+    {
+        "daily_spend.year": "2022",
+        "daily_spend.month": "07",
+        "daily_spend.warehouse": "COMPUTE_WH",
+        "daily_spend.Compute": "15.05",
+        "daily_spend.Storage": "0.0"
+    },
+    {
+        "daily_spend.year": "2022",
+        "daily_spend.month": "08",
+        "daily_spend.warehouse": "COMPUTE_WH",
+        "daily_spend.Compute": "20.75",
+        "daily_spend.Storage": "0.0"
+    },
+    {
+        "daily_spend.year": "2022",
+        "daily_spend.month": "09",
+        "daily_spend.warehouse": "COMPUTE_WH",
+        "daily_spend.Compute": "18.04",
+        "daily_spend.Storage": "0.0"
+    },
+    {
+        "daily_spend.year": "2022",
+        "daily_spend.month": "10",
+        "daily_spend.warehouse": "COMPUTE_WH",
+        "daily_spend.Compute": "18.27",
+        "daily_spend.Storage": "0.0"
+    },
+    {
+        "daily_spend.year": "2022",
+        "daily_spend.month": "11",
+        "daily_spend.warehouse": "COMPUTE_WH",
+        "daily_spend.Compute": "29.7",
+        "daily_spend.Storage": "0.0"
+    }
+  ]

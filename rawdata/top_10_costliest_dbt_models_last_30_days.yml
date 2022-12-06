@@ -1,0 +1,53 @@
+top_10_costliest_dbt_models_last_30_days: |-
+  [
+    {
+      "query_history.dbt_node_id": "vw_test_model",
+      "query_history.total_cost_last_30d" : "118.11",
+      "query_history.estimated_annual_cost": "1417.32"
+    },
+    {
+      "query_history.dbt_node_id": "fact_test_model",
+      "query_history.total_cost_last_30d" : "109.94",
+      "query_history.estimated_annual_cost": "1319.28"
+    },
+    {
+      "query_history.dbt_node_id": "dim_test_model",
+      "query_history.total_cost_last_30d" : "102.01",
+      "query_history.estimated_annual_cost": "1224.12"
+    },
+    {
+      "query_history.dbt_node_id": "mart_test_model",
+      "query_history.total_cost_last_30d" : "99.56",
+      "query_history.estimated_annual_cost": "1194.72"
+    },
+    {
+      "query_history.dbt_node_id": "view_test_model",
+      "query_history.total_cost_last_30d" : "91.22",
+      "query_history.estimated_annual_cost": "1094.64"
+    },
+    {
+      "query_history.dbt_node_id": "snapshot_test_model",
+      "query_history.total_cost_last_30d" : "84.62",
+      "query_history.estimated_annual_cost": "1015.44"
+    },
+    {
+      "query_history.dbt_node_id": "staging_test_model",
+      "query_history.total_cost_last_30d" : "62.50",
+      "query_history.estimated_annual_cost": "750.00"
+    },
+    {
+      "query_history.dbt_node_id": "fact_computed_test_model",
+      "query_history.total_cost_last_30d" : "51,27",
+      "query_history.estimated_annual_cost": "615.24"
+    },
+    {
+      "query_history.dbt_node_id": "fact_test_model_history",
+      "query_history.total_cost_last_30d" : "45.45",
+      "query_history.estimated_annual_cost": "545.50"
+    },
+    {
+      "query_history.dbt_node_id": "snapshot_test_model_two",
+      "query_history.total_cost_last_30d" : "35.11",
+      "query_history.estimated_annual_cost": "421.32"
+    }
+  ]

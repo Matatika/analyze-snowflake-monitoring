@@ -1,0 +1,113 @@
+top_10_costliest_queries_last_30_days: |-
+    [
+      {
+          "query_history.query_signature": "04119ef78fa1a2c8e1e0f3893f2ebe18",
+          "TOTAL_COST_LAST_30D": "1.703491148",
+          "query_history.total_cost_last_30d": "1.703491148",
+          "query_history.estimated_annual_cost": "20.441893777",
+          "LATEST_WAREHOUSE_NAME": "COMPUTE_WH",
+          "LATEST_WAREHOUSE_SIZE": "X-Small",
+          "LATEST_QUERY_ID": "01a87659-0a03-f02f-0001-fea60047f652",
+          "AVG_EXECUTION_TIME_S": "0.538803571429",
+          "NUM_EXECUTIONS": "56"
+      },
+      {
+          "query_history.query_signature": "6d2de1d1e998fe7ab2f135b077389573",
+          "TOTAL_COST_LAST_30D": "1.429846837",
+          "query_history.total_cost_last_30d": "1.429846837",
+          "query_history.estimated_annual_cost": "17.158162044",
+          "LATEST_WAREHOUSE_NAME": "COMPUTE_WH",
+          "LATEST_WAREHOUSE_SIZE": "X-Small",
+          "LATEST_QUERY_ID": "01a87529-0a03-f035-0001-fea60048005e",
+          "AVG_EXECUTION_TIME_S": "1.568520000000",
+          "NUM_EXECUTIONS": "25"
+      },
+      {
+          "query_history.query_signature": "dc6e8eee5d86953ffd9086ee2b33f347",
+          "TOTAL_COST_LAST_30D": "1.408215494",
+          "query_history.total_cost_last_30d": "1.408215494",
+          "query_history.estimated_annual_cost": "16.898585933",
+          "LATEST_WAREHOUSE_NAME": "COMPUTE_WH",
+          "LATEST_WAREHOUSE_SIZE": "X-Small",
+          "LATEST_QUERY_ID": "01a872eb-0a03-edaf-0001-fea60047ac8e",
+          "AVG_EXECUTION_TIME_S": "0.169773584906",
+          "NUM_EXECUTIONS": "53"
+      },
+      {
+          "query_history.query_signature": "fce00d357cedbd3772512d397aef17b1",
+          "TOTAL_COST_LAST_30D": "1.363707532",
+          "query_history.total_cost_last_30d": "1.363707532",
+          "query_history.estimated_annual_cost": "16.364490383",
+          "LATEST_WAREHOUSE_NAME": "COMPUTE_WH",
+          "LATEST_WAREHOUSE_SIZE": "X-Small",
+          "LATEST_QUERY_ID": "01a872b1-0a03-eedf-0001-fea60047b022",
+          "AVG_EXECUTION_TIME_S": "0.374642857143",
+          "NUM_EXECUTIONS": "140"
+      },
+      {
+          "query_history.query_signature": "b42178393bc4919c84856db8df868d4d",
+          "TOTAL_COST_LAST_30D": "0.9284358566",
+          "query_history.total_cost_last_30d": "0.9284358566",
+          "query_history.estimated_annual_cost": "11.141230279",
+          "LATEST_WAREHOUSE_NAME": "COMPUTE_WH",
+          "LATEST_WAREHOUSE_SIZE": "X-Small",
+          "LATEST_QUERY_ID": "01a86aeb-0a03-edaf-0001-fea600470f12",
+          "AVG_EXECUTION_TIME_S": "0.219727272727",
+          "NUM_EXECUTIONS": "11"
+      },
+      {
+          "query_history.query_signature": "b53a24a5028c271f3a96bfd543c57f52",
+          "TOTAL_COST_LAST_30D": "0.8517765599",
+          "query_history.total_cost_last_30d": "0.8517765599",
+          "query_history.estimated_annual_cost": "10.221318719",
+          "LATEST_WAREHOUSE_NAME": "COMPUTE_WH",
+          "LATEST_WAREHOUSE_SIZE": "X-Small",
+          "LATEST_QUERY_ID": "01a87529-0a03-f02f-0001-fea60047f086",
+          "AVG_EXECUTION_TIME_S": "1.277066666667",
+          "NUM_EXECUTIONS": "15"
+      },
+      {
+          "query_history.query_signature": "4ddca8558d4289f2b0a578b0f3b64851",
+         "TOTAL_COST_LAST_30D": "0.8139013113",
+          "query_history.total_cost_last_30d": "0.8139013113",
+          "query_history.estimated_annual_cost": "9.766815736",
+          "LATEST_WAREHOUSE_NAME": "COMPUTE_WH",
+          "LATEST_WAREHOUSE_SIZE": "X-Small",
+          "LATEST_QUERY_ID": "01a85b0c-0a03-eb55-0001-fea600463036",
+          "AVG_EXECUTION_TIME_S": "55.075000000000",
+          "NUM_EXECUTIONS": "1"
+      },
+      {
+          "query_history.query_signature": "54a52d1921eb4f710ae188ac999830e7",
+          "TOTAL_COST_LAST_30D": "0.711412713",
+          "query_history.total_cost_last_30d": "0.711412713",
+          "query_history.estimated_annual_cost": "8.536952556",
+          "LATEST_WAREHOUSE_NAME": "COMPUTE_WH",
+          "LATEST_WAREHOUSE_SIZE": "X-Small",
+          "LATEST_QUERY_ID": "01a87659-0a03-f015-0001-fea60047e772",
+          "AVG_EXECUTION_TIME_S": "0.628964285714",
+          "NUM_EXECUTIONS": "28"
+      },
+      {
+          "query_history.query_signature": "c159c33c3d62d3782fa13bb4ebff133f",
+          "TOTAL_COST_LAST_30D": "0.6818649776",
+          "query_history.total_cost_last_30d": "0.6818649776",
+          "query_history.estimated_annual_cost": "8.182379731",
+          "LATEST_WAREHOUSE_NAME": "COMPUTE_WH",
+          "LATEST_WAREHOUSE_SIZE": "X-Small",
+          "LATEST_QUERY_ID": "01a87262-0a03-eedf-0001-fea600479552",
+          "AVG_EXECUTION_TIME_S": "0.404750000000",
+          "NUM_EXECUTIONS": "8"
+      },
+      {
+          "query_history.query_signature": "c10fa67bb2511f1e081ca5a905518b7c",
+        "TOTAL_COST_LAST_30D": "0.6078844155",
+          "query_history.total_cost_last_30d": "0.6078844155",
+          "query_history.estimated_annual_cost": "7.294612986",
+          "LATEST_WAREHOUSE_NAME": "COMPUTE_WH",
+          "LATEST_WAREHOUSE_SIZE": "X-Small",
+          "LATEST_QUERY_ID": "01a87511-0a03-eedf-0001-fea60047bc7e",
+          "AVG_EXECUTION_TIME_S": "1.073729729730",
+          "NUM_EXECUTIONS": "37"
+      }
+    ]

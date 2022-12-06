@@ -1,0 +1,58 @@
+snowflake_spend_alltime: |-
+  [
+    {
+        "snowflake_spend.year": "2022",
+        "snowflake_spend.month": "01",
+        "snowflake_spend.spend": "0.0"
+    },
+    {
+        "snowflake_spend.year": "2022",
+        "snowflake_spend.month": "02",
+        "snowflake_spend.spend": "0.0"
+    },
+    {
+        "snowflake_spend.year": "2022",
+        "snowflake_spend.month": "03",
+        "snowflake_spend.spend": "82.37"
+    },
+    {
+        "snowflake_spend.year": "2022",
+        "snowflake_spend.month": "04",
+        "snowflake_spend.spend": "37.05"
+    },
+    {
+        "snowflake_spend.year": "2022",
+        "snowflake_spend.month": "05",
+        "snowflake_spend.spend": "35.53"
+    },
+    {
+        "snowflake_spend.year": "2022",
+        "snowflake_spend.month": "06",
+        "snowflake_spend.spend": "23.74"
+    },
+    {
+        "snowflake_spend.year": "2022",
+        "snowflake_spend.month": "07",
+        "snowflake_spend.spend": "15.07"
+    },
+    {
+        "snowflake_spend.year": "2022",
+        "snowflake_spend.month": "08",
+        "snowflake_spend.spend": "20.74"
+    },
+    {
+        "snowflake_spend.year": "2022",
+        "snowflake_spend.month": "09",
+        "snowflake_spend.spend": "18.04"
+    },
+    {
+        "snowflake_spend.year": "2022",
+        "snowflake_spend.month": "10",
+        "snowflake_spend.spend": "18.46"
+    },
+    {
+        "snowflake_spend.year": "2022",
+        "snowflake_spend.month": "11",
+        "snowflake_spend.spend": "29.73"
+    }
+  ]

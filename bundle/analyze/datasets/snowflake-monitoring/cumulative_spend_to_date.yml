@@ -73,7 +73,7 @@ query: |-
     ORDER BY date_day, usage_month, spend_day
   ) 
   SELECT
-    spend_day,
+    spend_day as "snowflake_spend.spend_day",
     sum(CASE WHEN spend_month = '1' THEN cumulative ELSE NULL END) AS "snowflake_spend.january",
     sum(CASE WHEN spend_month = '2' THEN cumulative ELSE NULL END) AS "snowflake_spend.february",
     sum(CASE WHEN spend_month = '3' THEN cumulative ELSE NULL END) AS "snowflake_spend.march",

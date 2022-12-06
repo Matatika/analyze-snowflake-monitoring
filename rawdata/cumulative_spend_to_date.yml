@@ -1,7 +1,7 @@
 cumulative_spend_to_date: |-
   [
     {
-        "SPEND_DAY": "1",
+        "snowflake_spend.spend_day": "1",
         "snowflake_spend.january": null,
         "snowflake_spend.february": "0.0",
         "snowflake_spend.march": "0.0",
@@ -16,7 +16,7 @@ cumulative_spend_to_date: |-
         "snowflake_spend.december": null
     },
     {
-        "SPEND_DAY": "2",
+        "snowflake_spend.spend_day": "2",
         "snowflake_spend.january": null,
         "snowflake_spend.february": "0.0",
         "snowflake_spend.march": "5.09",
@@ -31,7 +31,7 @@ cumulative_spend_to_date: |-
         "snowflake_spend.december": null
     },
     {
-        "SPEND_DAY": "3",
+        "snowflake_spend.spend_day": "3",
         "snowflake_spend.january": null,
         "snowflake_spend.february": "0.0",
         "snowflake_spend.march": "10.46",
@@ -46,7 +46,7 @@ cumulative_spend_to_date: |-
         "snowflake_spend.december": null
     },
     {
-        "SPEND_DAY": "4",
+        "snowflake_spend.spend_day": "4",
         "snowflake_spend.january": null,
         "snowflake_spend.february": "0.0",
         "snowflake_spend.march": "12.86",
@@ -61,7 +61,7 @@ cumulative_spend_to_date: |-
         "snowflake_spend.december": null
     },
     {
-        "SPEND_DAY": "5",
+        "snowflake_spend.spend_day": "5",
         "snowflake_spend.january": null,
         "snowflake_spend.february": "0.0",
         "snowflake_spend.march": "15.24",
@@ -76,7 +76,7 @@ cumulative_spend_to_date: |-
         "snowflake_spend.december": null
     },
     {
-        "SPEND_DAY": "6",
+        "snowflake_spend.spend_day": "6",
         "snowflake_spend.january": null,
         "snowflake_spend.february": "0.0",
         "snowflake_spend.march": "17.31",
@@ -91,7 +91,7 @@ cumulative_spend_to_date: |-
         "snowflake_spend.december": null
     },
     {
-        "SPEND_DAY": "7",
+        "snowflake_spend.spend_day": "7",
         "snowflake_spend.january": null,
         "snowflake_spend.february": "0.0",
         "snowflake_spend.march": "21.22",
@@ -106,7 +106,7 @@ cumulative_spend_to_date: |-
         "snowflake_spend.december": null
     },
     {
-        "SPEND_DAY": "8",
+        "snowflake_spend.spend_day": "8",
         "snowflake_spend.january": null,
         "snowflake_spend.february": "0.0",
         "snowflake_spend.march": "23.54",
@@ -121,7 +121,7 @@ cumulative_spend_to_date: |-
         "snowflake_spend.december": null
     },
     {
-        "SPEND_DAY": "9",
+        "snowflake_spend.spend_day": "9",
         "snowflake_spend.january": null,
         "snowflake_spend.february": "0.0",
         "snowflake_spend.march": "25.91",
@@ -136,7 +136,7 @@ cumulative_spend_to_date: |-
         "snowflake_spend.december": null
     },
     {
-        "SPEND_DAY": "10",
+        "snowflake_spend.spend_day": "10",
         "snowflake_spend.january": null,
         "snowflake_spend.february": "0.0",
         "snowflake_spend.march": "28.62",
@@ -151,7 +151,7 @@ cumulative_spend_to_date: |-
         "snowflake_spend.december": null
     },
     {
-        "SPEND_DAY": "11",
+        "snowflake_spend.spend_day": "11",
         "snowflake_spend.january": null,
         "snowflake_spend.february": "0.0",
         "snowflake_spend.march": "30.59",
@@ -166,7 +166,7 @@ cumulative_spend_to_date: |-
         "snowflake_spend.december": null
     },
     {
-        "SPEND_DAY": "12",
+        "snowflake_spend.spend_day": "12",
         "snowflake_spend.january": null,
         "snowflake_spend.february": "0.0",
         "snowflake_spend.march": "32.31",
@@ -181,7 +181,7 @@ cumulative_spend_to_date: |-
         "snowflake_spend.december": null
     },
     {
-        "SPEND_DAY": "13",
+        "snowflake_spend.spend_day": "13",
         "snowflake_spend.january": null,
         "snowflake_spend.february": "0.0",
         "snowflake_spend.march": "34.8",
@@ -196,7 +196,7 @@ cumulative_spend_to_date: |-
         "snowflake_spend.december": null
     },
     {
-        "SPEND_DAY": "14",
+        "snowflake_spend.spend_day": "14",
         "snowflake_spend.january": null,
         "snowflake_spend.february": "0.0",
         "snowflake_spend.march": "37.06",
@@ -211,7 +211,7 @@ cumulative_spend_to_date: |-
         "snowflake_spend.december": null
     },
     {
-        "SPEND_DAY": "15",
+        "snowflake_spend.spend_day": "15",
         "snowflake_spend.january": null,
         "snowflake_spend.february": "0.0",
         "snowflake_spend.march": "40.5",
@@ -226,7 +226,7 @@ cumulative_spend_to_date: |-
         "snowflake_spend.december": null
     },
     {
-        "SPEND_DAY": "16",
+        "snowflake_spend.spend_day": "16",
         "snowflake_spend.january": null,
         "snowflake_spend.february": "0.0",
         "snowflake_spend.march": "42.77",
@@ -241,7 +241,7 @@ cumulative_spend_to_date: |-
         "snowflake_spend.december": null
     },
     {
-        "SPEND_DAY": "17",
+        "snowflake_spend.spend_day": "17",
         "snowflake_spend.january": null,
         "snowflake_spend.february": "0.0",
         "snowflake_spend.march": "45.04",
@@ -256,7 +256,7 @@ cumulative_spend_to_date: |-
         "snowflake_spend.december": null
     },
     {
-        "SPEND_DAY": "18",
+        "snowflake_spend.spend_day": "18",
         "snowflake_spend.january": "0.0",
         "snowflake_spend.february": "0.0",
         "snowflake_spend.march": "48.23",
@@ -271,7 +271,7 @@ cumulative_spend_to_date: |-
         "snowflake_spend.december": null
     },
     {
-        "SPEND_DAY": "19",
+        "snowflake_spend.spend_day": "19",
         "snowflake_spend.january": "0.0",
         "snowflake_spend.february": "0.0",
         "snowflake_spend.march": "51.08",
@@ -286,7 +286,7 @@ cumulative_spend_to_date: |-
         "snowflake_spend.december": null
     },
     {
-        "SPEND_DAY": "20",
+        "snowflake_spend.spend_day": "20",
         "snowflake_spend.january": "0.0",
         "snowflake_spend.february": "0.0",
         "snowflake_spend.march": "53.14",
@@ -301,7 +301,7 @@ cumulative_spend_to_date: |-
         "snowflake_spend.december": null
     },
     {
-        "SPEND_DAY": "21",
+        "snowflake_spend.spend_day": "21",
         "snowflake_spend.january": "0.0",
         "snowflake_spend.february": "0.0",
         "snowflake_spend.march": "55.12",
@@ -316,7 +316,7 @@ cumulative_spend_to_date: |-
         "snowflake_spend.december": null
     },
     {
-        "SPEND_DAY": "22",
+        "snowflake_spend.spend_day": "22",
         "snowflake_spend.january": "0.0",
         "snowflake_spend.february": "0.0",
         "snowflake_spend.march": "57.63",
@@ -331,7 +331,7 @@ cumulative_spend_to_date: |-
         "snowflake_spend.december": null
     },
     {
-        "SPEND_DAY": "23",
+        "snowflake_spend.spend_day": "23",
         "snowflake_spend.january": "0.0",
         "snowflake_spend.february": "0.0",
         "snowflake_spend.march": "60.86",
@@ -346,7 +346,7 @@ cumulative_spend_to_date: |-
         "snowflake_spend.december": null
     },
     {
-        "SPEND_DAY": "24",
+        "snowflake_spend.spend_day": "24",
         "snowflake_spend.january": "0.0",
         "snowflake_spend.february": "0.0",
         "snowflake_spend.march": "63.52",
@@ -361,7 +361,7 @@ cumulative_spend_to_date: |-
         "snowflake_spend.december": null
     },
     {
-        "SPEND_DAY": "25",
+        "snowflake_spend.spend_day": "25",
         "snowflake_spend.january": "0.0",
         "snowflake_spend.february": "0.0",
         "snowflake_spend.march": "66.11",
@@ -376,7 +376,7 @@ cumulative_spend_to_date: |-
         "snowflake_spend.december": null
     },
     {
-        "SPEND_DAY": "26",
+        "snowflake_spend.spend_day": "26",
         "snowflake_spend.january": "0.0",
         "snowflake_spend.february": "0.0",
         "snowflake_spend.march": "69.05",
@@ -391,7 +391,7 @@ cumulative_spend_to_date: |-
         "snowflake_spend.december": null
     },
     {
-        "SPEND_DAY": "27",
+        "snowflake_spend.spend_day": "27",
         "snowflake_spend.january": "0.0",
         "snowflake_spend.february": "0.0",
         "snowflake_spend.march": "71.79",
@@ -406,7 +406,7 @@ cumulative_spend_to_date: |-
         "snowflake_spend.december": null
     },
     {
-        "SPEND_DAY": "28",
+        "snowflake_spend.spend_day": "28",
         "snowflake_spend.january": "0.0",
         "snowflake_spend.february": "0.0",
         "snowflake_spend.march": "74.22",
@@ -421,7 +421,7 @@ cumulative_spend_to_date: |-
         "snowflake_spend.december": null
     },
     {
-        "SPEND_DAY": "29",
+        "snowflake_spend.spend_day": "29",
         "snowflake_spend.january": "0.0",
         "snowflake_spend.february": null,
         "snowflake_spend.march": "77.16",
@@ -436,7 +436,7 @@ cumulative_spend_to_date: |-
         "snowflake_spend.december": null
     },
     {
-        "SPEND_DAY": "30",
+        "snowflake_spend.spend_day": "30",
         "snowflake_spend.january": "0.0",
         "snowflake_spend.february": null,
         "snowflake_spend.march": "79.47",
@@ -451,7 +451,7 @@ cumulative_spend_to_date: |-
         "snowflake_spend.december": null
     },
     {
-        "SPEND_DAY": "31",
+        "snowflake_spend.spend_day": "31",
         "snowflake_spend.january": "0.0",
         "snowflake_spend.february": null,
         "snowflake_spend.march": "82.35",

@@ -37,7 +37,7 @@ top_10_costliest_dbt_models_last_30_days: |-
     },
     {
       "query_history.dbt_node_id": "fact_computed_test_model",
-      "query_history.total_cost_last_30d" : "51,27",
+      "query_history.total_cost_last_30d" : "51.27",
       "query_history.estimated_annual_cost": "615.24"
     },
     {

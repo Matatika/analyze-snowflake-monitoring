@@ -1,17 +1,17 @@
 month_to_date_warehouse_costs: |-
   [
     {
-      "daily_spend.warehouse": "172.22",
+      "daily_spend.warehouse": "Test Warehouse",
       "daily_spend.compute": "150.19",
       "daily_spend.storage": "22.03"
     },
     {
-      "daily_spend.warehouse": "918.61",
+      "daily_spend.warehouse": "Compute Warehouse",
       "daily_spend.compute": "849.30",
       "daily_spend.storage": "69.31"
     },
     {
-      "daily_spend.warehouse": "110.18",
+      "daily_spend.warehouse": "Import Warehouse",
       "daily_spend.compute": "101.06",
       "daily_spend.storage": "9.12"
     }

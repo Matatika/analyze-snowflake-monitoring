@@ -9,8 +9,8 @@ setup(
         "bundle": [
             "analyze/datasets/snowflake-monitoring/*.yml",
             "analyze/channels/*.yml",
-            "analyze/pipelines/*.yml",
-            "analyze/datastores/*.yml"
+            "pipelines/*.yml",
+            "datastores/*.yml"
         ]
     },
 )

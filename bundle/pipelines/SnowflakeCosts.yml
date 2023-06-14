@@ -3,7 +3,6 @@ name: Snowflake Costs
 timeout: 0
 data_components:
 - dbt
-- Snowflake
 actions:
 - dbt:deps
 - dbt:seed

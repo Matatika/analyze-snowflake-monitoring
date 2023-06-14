@@ -10,7 +10,11 @@ setup(
             "analyze/datasets/snowflake-monitoring/*.yml",
             "analyze/channels/*.yml",
             "pipelines/*.yml",
-            "datastores/*.yml"
+            "datastores/*.yml",
+            "transform/*",
+            "transform/.*",
+            "transform/**/*",
+            "transform/**/.*"
         ]
     },
 )
